@@ -1,0 +1,15 @@
+D:\Dev\Cours dotnet\premierExo\bin\Debug\net7.0\premierExo.exe
+D:\Dev\Cours dotnet\premierExo\bin\Debug\net7.0\premierExo.deps.json
+D:\Dev\Cours dotnet\premierExo\bin\Debug\net7.0\premierExo.runtimeconfig.json
+D:\Dev\Cours dotnet\premierExo\bin\Debug\net7.0\premierExo.dll
+D:\Dev\Cours dotnet\premierExo\bin\Debug\net7.0\premierExo.pdb
+D:\Dev\Cours dotnet\premierExo\obj\Debug\net7.0\premierExo.csproj.AssemblyReference.cache
+D:\Dev\Cours dotnet\premierExo\obj\Debug\net7.0\premierExo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Cours dotnet\premierExo\obj\Debug\net7.0\premierExo.AssemblyInfoInputs.cache
+D:\Dev\Cours dotnet\premierExo\obj\Debug\net7.0\premierExo.AssemblyInfo.cs
+D:\Dev\Cours dotnet\premierExo\obj\Debug\net7.0\premierExo.csproj.CoreCompileInputs.cache
+D:\Dev\Cours dotnet\premierExo\obj\Debug\net7.0\premierExo.dll
+D:\Dev\Cours dotnet\premierExo\obj\Debug\net7.0\refint\premierExo.dll
+D:\Dev\Cours dotnet\premierExo\obj\Debug\net7.0\premierExo.pdb
+D:\Dev\Cours dotnet\premierExo\obj\Debug\net7.0\premierExo.genruntimeconfig.cache
+D:\Dev\Cours dotnet\premierExo\obj\Debug\net7.0\ref\premierExo.dll

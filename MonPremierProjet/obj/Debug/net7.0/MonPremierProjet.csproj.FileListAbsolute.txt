@@ -1,0 +1,15 @@
+D:\Dev\Cours dotnet\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.exe
+D:\Dev\Cours dotnet\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.deps.json
+D:\Dev\Cours dotnet\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.runtimeconfig.json
+D:\Dev\Cours dotnet\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.dll
+D:\Dev\Cours dotnet\MonPremierProjet\bin\Debug\net7.0\MonPremierProjet.pdb
+D:\Dev\Cours dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.csproj.AssemblyReference.cache
+D:\Dev\Cours dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Cours dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.AssemblyInfoInputs.cache
+D:\Dev\Cours dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.AssemblyInfo.cs
+D:\Dev\Cours dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.csproj.CoreCompileInputs.cache
+D:\Dev\Cours dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.dll
+D:\Dev\Cours dotnet\MonPremierProjet\obj\Debug\net7.0\refint\MonPremierProjet.dll
+D:\Dev\Cours dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.pdb
+D:\Dev\Cours dotnet\MonPremierProjet\obj\Debug\net7.0\MonPremierProjet.genruntimeconfig.cache
+D:\Dev\Cours dotnet\MonPremierProjet\obj\Debug\net7.0\ref\MonPremierProjet.dll

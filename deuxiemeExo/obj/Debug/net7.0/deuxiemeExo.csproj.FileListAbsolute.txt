@@ -1,0 +1,15 @@
+D:\Dev\Cours dotnet\deuxiemeExo\obj\Debug\net7.0\deuxiemeExo.csproj.AssemblyReference.cache
+D:\Dev\Cours dotnet\deuxiemeExo\obj\Debug\net7.0\deuxiemeExo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Cours dotnet\deuxiemeExo\obj\Debug\net7.0\deuxiemeExo.AssemblyInfoInputs.cache
+D:\Dev\Cours dotnet\deuxiemeExo\obj\Debug\net7.0\deuxiemeExo.AssemblyInfo.cs
+D:\Dev\Cours dotnet\deuxiemeExo\obj\Debug\net7.0\deuxiemeExo.csproj.CoreCompileInputs.cache
+D:\Dev\Cours dotnet\deuxiemeExo\bin\Debug\net7.0\deuxiemeExo.exe
+D:\Dev\Cours dotnet\deuxiemeExo\bin\Debug\net7.0\deuxiemeExo.deps.json
+D:\Dev\Cours dotnet\deuxiemeExo\bin\Debug\net7.0\deuxiemeExo.runtimeconfig.json
+D:\Dev\Cours dotnet\deuxiemeExo\bin\Debug\net7.0\deuxiemeExo.dll
+D:\Dev\Cours dotnet\deuxiemeExo\bin\Debug\net7.0\deuxiemeExo.pdb
+D:\Dev\Cours dotnet\deuxiemeExo\obj\Debug\net7.0\deuxiemeExo.dll
+D:\Dev\Cours dotnet\deuxiemeExo\obj\Debug\net7.0\refint\deuxiemeExo.dll
+D:\Dev\Cours dotnet\deuxiemeExo\obj\Debug\net7.0\deuxiemeExo.pdb
+D:\Dev\Cours dotnet\deuxiemeExo\obj\Debug\net7.0\deuxiemeExo.genruntimeconfig.cache
+D:\Dev\Cours dotnet\deuxiemeExo\obj\Debug\net7.0\ref\deuxiemeExo.dll
